@@ -1,2 +1,2 @@
 # stepik_selenium_course1
-hw for course
+репозиторий для курса https://stepik.org/lesson/187065
